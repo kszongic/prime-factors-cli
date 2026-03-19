@@ -1,0 +1,29 @@
+{
+  "name": "@kszongic/prime-factors-cli",
+  "version": "1.0.0",
+  "description": "Factorize integers into prime factors from the command line. Zero dependencies.",
+  "main": "index.js",
+  "bin": {
+    "prime-factors": "index.js"
+  },
+  "keywords": [
+    "prime",
+    "factors",
+    "factorize",
+    "math",
+    "cli",
+    "integer",
+    "decomposition"
+  ],
+  "author": "kszongic",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kszongic/prime-factors-cli"
+  },
+  "files": [
+    "index.js",
+    "README.md",
+    "LICENSE"
+  ]
+}
